@@ -17,5 +17,5 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: ramonmanzano
+          username: ramonmanzano
           output_branch: output
